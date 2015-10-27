@@ -1,6 +1,9 @@
-# 
-# GPGMessenger
-# GPGMessenger
-# 
-# GPGMessenger
-# GPGMessenger.git
+# GPG Messenger v0.0.0a
+
+Is GPG based messenger.
+-------------------------------------------------------
+In development
+
+
+-------------------------------------------------------
+
